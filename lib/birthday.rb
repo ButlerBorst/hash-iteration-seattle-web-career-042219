@@ -29,5 +29,3 @@ birthday_kids.each do |kids_name, age|
    
       birthday_kids
 end
-
-end
